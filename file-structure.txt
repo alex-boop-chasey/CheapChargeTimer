@@ -1,0 +1,13 @@
+.
+├── CHANGELOG.md
+├── file-structure.txt
+├── Project_Snapshot.txt
+└── READ-ONLY-REFERENCE-DOCS
+    ├── Cheap_Charge_Timer_Feauture.md
+    ├── CLAUDE_EXECUTION_DIRECTIVES_v2_1.md
+    ├── Constitution_v1_3.md
+    ├── Data_Sources_and_Truth_Model_v1_0.md
+    ├── Feature_List_v1_1.md
+    └── Phase_1_Manifest_v1_0.md
+
+2 directories, 9 files
