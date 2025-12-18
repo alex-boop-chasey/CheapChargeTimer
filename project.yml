@@ -1,0 +1,12 @@
+name: CheapChargeTimer
+targets:
+  CheapChargeTimer:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources:
+      - CheapChargeTimer
+    settings:
+      PRODUCT_BUNDLE_IDENTIFIER: chasey.alex.CheapChargeTimer
+      INFOPLIST_KEY_UIApplicationSceneManifest_Generation: true
+      INFOPLIST_KEY_UILaunchScreen_Generation: true
